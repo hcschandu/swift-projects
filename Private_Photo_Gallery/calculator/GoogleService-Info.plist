@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>643664759769-8jsp13g42273gr4riot1q9pmhi4aek3c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.643664759769-8jsp13g42273gr4riot1q9pmhi4aek3c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCivhoWuHyre9-mML55bupgTXR-paiWS84</string>
+	<key>GCM_SENDER_ID</key>
+	<string>643664759769</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.P2G.firebase</string>
+	<key>PROJECT_ID</key>
+	<string>private-photo-gallery</string>
+	<key>STORAGE_BUCKET</key>
+	<string>private-photo-gallery.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:643664759769:ios:408542271db1c254a767c8</string>
+	<key>DATABASE_URL</key>
+	<string>https://private-photo-gallery.firebaseio.com</string>
+</dict>
+</plist>
